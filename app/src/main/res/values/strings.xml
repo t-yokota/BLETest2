@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLETest2</string>
+    <string name="startButton">Start Scan</string>
+    <string name="stopButton">Stop Scan</string>
+    <string name="scanningStateTrue">Scanning…</string>
+    <string name="scanningStateFalse" />
+</resources>
